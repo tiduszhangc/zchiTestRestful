@@ -8,4 +8,6 @@
 ## 运行
 + 1.下载到本地
 + 2.打开命令提示符
-+ 3.进入到下载后的目录
++ 3.在命令提示符内进入到下载后的目录zchiTestRestful\zchiTestRestful
++ 4.在此目录下执行dotnet run命令
++ 5.在浏览器上输入 http://localhost:5101/swagger/index.html 就可以通过swagger来看所有放出来得webservice服务接口
